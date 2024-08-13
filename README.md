@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ronaldo Caro - Data Analysis Jr.</title>
 </head>
 <body>
 
 <h1>Hi, I'm Ronaldo Caro 👋</h1>
 
-<h2>Data analysis Jr.</h2>
+<h2>Data Analysis Jr.</h2>
 
 <h2>About Me</h2>
 
-<p>I'm a physics student interested in data analysis and machine learning. Learning to transform and proccess data recollected from labs to prove theories and bissiness analysis.</p>
+<p>I'm a physics student interested in data analysis and machine learning. I am learning how to transform and process data collected from labs to prove theories and perform business analysis.</p>
 <ul>
-    <li>🧠 Interests: Data Analysis, Data Visualization and Machine Learning.</li>
-    <li>🌱 Currently learning: R, SQL and Python for data analysis.</li>
+    <li>🧠 Interests: Data Analysis, Data Visualization, and Machine Learning.</li>
+    <li>🌱 Currently learning: R, SQL, and Python for data analysis.</li>
     <li>🎯 Goal: To gain practical experience in data analysis projects and contribute to initiatives that make a real impact.</li>
 </ul>
 
@@ -30,21 +31,19 @@
 
 <h2>📊 Projects</h2>
 
-<h3>Comparative analysis between bicycle users of Cyclistic</h3>
+<h3>Comparative Analysis Between Cyclistic Bicycle Users</h3>
 <ul>
-    <li><strong>Description</strong>: To understand the differences in usage behavior between casual users and members with respect to the use of Cyclistic's bicycles. This is part of Final proyect for Google data analytics certification.</li>
-    <li><strong>Technologies Used</strong>: Python (pandas dataframes and matplotlib)</li>
-    <li><strong>Repository Link</strong>: <a href="https://github.com/RonaldoCaro/Final-Proyect-Google-Data-Analytics">[Link to the project on GitHub]</a></li>
+    <li><strong>Description</strong>: A project to understand the differences in usage behavior between casual users and members of Cyclistic's bicycle-sharing service. This project is part of the final project for the Google Data Analytics certification.</li>
+    <li><strong>Technologies Used</strong>: Python (Pandas, Matplotlib)</li>
+    <li><strong>Repository Link</strong>: <a href="https://github.com/RonaldoCaro/Final-Proyect-Google-Data-Analytics">Link to the project on GitHub</a></li>
 </ul>
-
 
 <h2>🌐 Find Me At:</h2>
 
 <ul>
-    <li><a href="www.linkedin.com/in/ronaldo-manuel-caro-quilo-6a266a2b7">LinkedIn</a></li>
-    <li><a href="caroquiloronaldo@gmail.com">Email</a></li>
+    <li><a href="https://www.linkedin.com/in/ronaldo-manuel-caro-quilo-6a266a2b7">LinkedIn</a></li>
+    <li><a href="mailto:caroquiloronaldo@gmail.com">Email</a></li>
 </ul>
 
 </body>
 </html>
-
