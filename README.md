@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ronaldo Caro - Data Analysis Jr.</title>
 </head>
 <body>
 
@@ -41,8 +40,8 @@
 <h2>🌐 Find Me At:</h2>
 
 <ul>
-    <li><a href="https://www.linkedin.com/in/ronaldo-manuel-caro-quilo-6a266a2b7">LinkedIn</a></li>
-    <li><a href="mailto:caroquiloronaldo@gmail.com">Email</a></li>
+    <li>🔗Link to linkedIn: <a href="https://www.linkedin.com/in/ronaldo-manuel-caro-quilo-6a266a2b7">LinkedIn</a></li>
+    <li>📧 Email: caroquiloronaldo@gmail.com
 </ul>
 
 </body>
