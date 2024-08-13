@@ -8,7 +8,7 @@
 
 <h1>Hi, I'm Ronaldo Caro 👋</h1>
 
-<h2>Data Analysis Jr.</h2>
+<h2>Data Analyst Jr.</h2>
 
 <h2>About Me</h2>
 
