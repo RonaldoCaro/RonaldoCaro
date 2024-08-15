@@ -41,7 +41,7 @@
 
 <ul>
     <li>📄 <a href="https://drive.google.com/your-english-cv-link" target="_blank">Curriculum Vitae (English)</a></li>
-    <li>📄 <a href="https://github.com/tu-usuario/CV/raw/main/tu-cv-espanol.pdf" target="_blank">Currículum Vitae (Español)</a></li>
+    <li>📄 <a href="https://github.com/RonaldoCaro/CV/raw/main/CV English.pdf" target="_blank">Currículum Vitae (Español)</a></li>
     <li>🔗Link to linkedIn: <a href="https://www.linkedin.com/in/ronaldo-manuel-caro-quilo-6a266a2b7">LinkedIn</a></li>
     <li>📧 Email: caroquiloronaldo@gmail.com
 </ul>
