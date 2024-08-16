@@ -42,7 +42,6 @@
 <h2>🌐 Find Me At:</h2>
 
 <ul>
-    <li>🔗Link to linkedIn: <a href="https://www.linkedin.com/in/ronaldo-manuel-caro-quilo-6a266a2b7">LinkedIn</a></li>
     <li>📧 Email: caroquiloronaldo@gmail.com
 </ul>
 
