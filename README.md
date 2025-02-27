@@ -14,8 +14,6 @@
 
 <p>I'm a physics student interested in data analysis and machine learning. I am learning how to transform and process data collected from labs to prove theories and perform business analysis.</p>
 <ul>
-    📄 <a href="https://github.com/RonaldoCaro/CV/raw/main/CV Español.pdf" target="_blank">Currículum Vitae (Español)</a>
-    📄 <a href="https://github.com/RonaldoCaro/CV/raw/main/CV English.pdf" target="_blank">Curriculum Vitae (English)</a>
     <li>🧠 Interests: Data Analysis, Data Visualization, and Machine Learning.</li>
     <li>🌱 Currently learning: R, SQL, and Python for data analysis.</li>
     <li>🎯 Goal: To gain practical experience in data analysis projects and contribute to initiatives that make a real impact.</li>
