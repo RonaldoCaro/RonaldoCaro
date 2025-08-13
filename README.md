@@ -22,7 +22,7 @@
 <u>
     <li><strong>Description</strong>: Design of a simple database to locate data from teams and players from the CS Austin Major.</li>
     <li><strong>Tools</strong>: PostgreSQL, DBeaver.</li>
-    <li><strong>Repository Link:</strong><a href="https://github.com/RonaldoCaro/cs-major-database-design.git" target="_blank">Link to the project on GitHub</a></li>
+    <li><strong>Repository Link</strong>: <a href="https://github.com/RonaldoCaro/cs-major-database-design.git" target="_blank">Link to the project on GitHub</a></li>
          
 </u>
 
