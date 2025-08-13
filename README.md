@@ -18,6 +18,14 @@
     <li><strong>Repository Link</strong>: <a href="https://github.com/RonaldoCaro/Final-Proyect-Google-Data-Analytics" target="_blank">Link to the project on GitHub</a></li>
 </ul>
 
+<h3>Simple Database Design for CS Austin Major Data</h3>
+<u>
+    <li><strong>Description</strong>: Design of a simple database to locate data from teams and players from the CS Austin Major.</li>
+    <li><strong>Tools</strong>: PostgreSQL, DBeaver.</li>
+    <li><strong>Repository Link</strong><a href="https://github.com/RonaldoCaro/Final-Proyect-Google-Data-Analytics" target="_blank">Link to the project on GitHub</a>:</li>
+         
+</u>
+
 <h3>Solving Binary 2×2 Sudoku on IBM Quantum Cloud</h3>
 <ul>
     <li><strong>Description</strong>: A quantum computing project that implements Grover's algorithm to solve a binary 2×2 Sudoku. The circuit is executed both in simulation and on a real QPU provided by IBM Quantum, based on the Qiskit Textbook.</li>
